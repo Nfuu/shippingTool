@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/shippingTool/static/css/main.de8bdac0.chunk.css",
-    "main.js": "/shippingTool/static/js/main.cd5b9772.chunk.js",
-    "main.js.map": "/shippingTool/static/js/main.cd5b9772.chunk.js.map",
-    "runtime-main.js": "/shippingTool/static/js/runtime-main.5f4fa9cc.js",
-    "runtime-main.js.map": "/shippingTool/static/js/runtime-main.5f4fa9cc.js.map",
+    "main.css": "/shippingTool/static/css/main.0e554d5c.chunk.css",
+    "main.js": "/shippingTool/static/js/main.9a79dabb.chunk.js",
+    "main.js.map": "/shippingTool/static/js/main.9a79dabb.chunk.js.map",
+    "runtime-main.js": "/shippingTool/static/js/runtime-main.c0a119c3.js",
+    "runtime-main.js.map": "/shippingTool/static/js/runtime-main.c0a119c3.js.map",
     "static/css/2.c1e28d34.chunk.css": "/shippingTool/static/css/2.c1e28d34.chunk.css",
-    "static/js/2.9a9ef2b6.chunk.js": "/shippingTool/static/js/2.9a9ef2b6.chunk.js",
-    "static/js/2.9a9ef2b6.chunk.js.map": "/shippingTool/static/js/2.9a9ef2b6.chunk.js.map",
-    "static/js/3.a27c072d.chunk.js": "/shippingTool/static/js/3.a27c072d.chunk.js",
-    "static/js/3.a27c072d.chunk.js.map": "/shippingTool/static/js/3.a27c072d.chunk.js.map",
+    "static/js/2.1053d385.chunk.js": "/shippingTool/static/js/2.1053d385.chunk.js",
+    "static/js/2.1053d385.chunk.js.map": "/shippingTool/static/js/2.1053d385.chunk.js.map",
+    "static/js/3.f298d6e8.chunk.js": "/shippingTool/static/js/3.f298d6e8.chunk.js",
+    "static/js/3.f298d6e8.chunk.js.map": "/shippingTool/static/js/3.f298d6e8.chunk.js.map",
     "index.html": "/shippingTool/index.html",
     "static/css/2.c1e28d34.chunk.css.map": "/shippingTool/static/css/2.c1e28d34.chunk.css.map",
-    "static/css/main.de8bdac0.chunk.css.map": "/shippingTool/static/css/main.de8bdac0.chunk.css.map",
-    "static/js/2.9a9ef2b6.chunk.js.LICENSE.txt": "/shippingTool/static/js/2.9a9ef2b6.chunk.js.LICENSE.txt"
+    "static/css/main.0e554d5c.chunk.css.map": "/shippingTool/static/css/main.0e554d5c.chunk.css.map",
+    "static/js/2.1053d385.chunk.js.LICENSE.txt": "/shippingTool/static/js/2.1053d385.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5f4fa9cc.js",
+    "static/js/runtime-main.c0a119c3.js",
     "static/css/2.c1e28d34.chunk.css",
-    "static/js/2.9a9ef2b6.chunk.js",
-    "static/css/main.de8bdac0.chunk.css",
-    "static/js/main.cd5b9772.chunk.js"
+    "static/js/2.1053d385.chunk.js",
+    "static/css/main.0e554d5c.chunk.css",
+    "static/js/main.9a79dabb.chunk.js"
   ]
 }
