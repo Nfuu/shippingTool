@@ -1,25 +1,27 @@
 {
   "files": {
-    "main.css": "/shippingTool/static/css/main.345c001a.chunk.css",
-    "main.js": "/shippingTool/static/js/main.19a41f4e.chunk.js",
-    "main.js.map": "/shippingTool/static/js/main.19a41f4e.chunk.js.map",
-    "runtime-main.js": "/shippingTool/static/js/runtime-main.18f71846.js",
-    "runtime-main.js.map": "/shippingTool/static/js/runtime-main.18f71846.js.map",
+    "main.css": "/shippingTool/static/css/main.04115a6c.chunk.css",
+    "main.js": "/shippingTool/static/js/main.862647d5.chunk.js",
+    "main.js.map": "/shippingTool/static/js/main.862647d5.chunk.js.map",
+    "runtime-main.js": "/shippingTool/static/js/runtime-main.6d38f920.js",
+    "runtime-main.js.map": "/shippingTool/static/js/runtime-main.6d38f920.js.map",
     "static/css/2.c1e28d34.chunk.css": "/shippingTool/static/css/2.c1e28d34.chunk.css",
-    "static/js/2.e649f5a6.chunk.js": "/shippingTool/static/js/2.e649f5a6.chunk.js",
-    "static/js/2.e649f5a6.chunk.js.map": "/shippingTool/static/js/2.e649f5a6.chunk.js.map",
-    "static/js/3.0559b678.chunk.js": "/shippingTool/static/js/3.0559b678.chunk.js",
-    "static/js/3.0559b678.chunk.js.map": "/shippingTool/static/js/3.0559b678.chunk.js.map",
+    "static/js/2.907909ee.chunk.js": "/shippingTool/static/js/2.907909ee.chunk.js",
+    "static/js/2.907909ee.chunk.js.map": "/shippingTool/static/js/2.907909ee.chunk.js.map",
+    "static/js/3.7d155870.chunk.js": "/shippingTool/static/js/3.7d155870.chunk.js",
+    "static/js/3.7d155870.chunk.js.map": "/shippingTool/static/js/3.7d155870.chunk.js.map",
     "index.html": "/shippingTool/index.html",
     "static/css/2.c1e28d34.chunk.css.map": "/shippingTool/static/css/2.c1e28d34.chunk.css.map",
-    "static/css/main.345c001a.chunk.css.map": "/shippingTool/static/css/main.345c001a.chunk.css.map",
-    "static/js/2.e649f5a6.chunk.js.LICENSE.txt": "/shippingTool/static/js/2.e649f5a6.chunk.js.LICENSE.txt"
+    "static/css/main.04115a6c.chunk.css.map": "/shippingTool/static/css/main.04115a6c.chunk.css.map",
+    "static/js/2.907909ee.chunk.js.LICENSE.txt": "/shippingTool/static/js/2.907909ee.chunk.js.LICENSE.txt",
+    "static/media/Coal_mine.f8b35831.png": "/shippingTool/static/media/Coal_mine.f8b35831.png",
+    "static/media/power_plant.0ce6d6e9.png": "/shippingTool/static/media/power_plant.0ce6d6e9.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.18f71846.js",
+    "static/js/runtime-main.6d38f920.js",
     "static/css/2.c1e28d34.chunk.css",
-    "static/js/2.e649f5a6.chunk.js",
-    "static/css/main.345c001a.chunk.css",
-    "static/js/main.19a41f4e.chunk.js"
+    "static/js/2.907909ee.chunk.js",
+    "static/css/main.04115a6c.chunk.css",
+    "static/js/main.862647d5.chunk.js"
   ]
 }
