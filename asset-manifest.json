@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/shippingTool/static/css/main.04115a6c.chunk.css",
-    "main.js": "/shippingTool/static/js/main.b3c4ef95.chunk.js",
-    "main.js.map": "/shippingTool/static/js/main.b3c4ef95.chunk.js.map",
+    "main.js": "/shippingTool/static/js/main.9fc54175.chunk.js",
+    "main.js.map": "/shippingTool/static/js/main.9fc54175.chunk.js.map",
     "runtime-main.js": "/shippingTool/static/js/runtime-main.6d38f920.js",
     "runtime-main.js.map": "/shippingTool/static/js/runtime-main.6d38f920.js.map",
     "static/css/2.c1e28d34.chunk.css": "/shippingTool/static/css/2.c1e28d34.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.c1e28d34.chunk.css",
     "static/js/2.907909ee.chunk.js",
     "static/css/main.04115a6c.chunk.css",
-    "static/js/main.b3c4ef95.chunk.js"
+    "static/js/main.9fc54175.chunk.js"
   ]
 }
