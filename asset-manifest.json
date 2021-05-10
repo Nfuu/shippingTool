@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/shippingTool/static/css/main.04115a6c.chunk.css",
-    "main.js": "/shippingTool/static/js/main.8e7e84ac.chunk.js",
-    "main.js.map": "/shippingTool/static/js/main.8e7e84ac.chunk.js.map",
-    "runtime-main.js": "/shippingTool/static/js/runtime-main.6d38f920.js",
-    "runtime-main.js.map": "/shippingTool/static/js/runtime-main.6d38f920.js.map",
+    "main.js": "/shippingTool/static/js/main.3531607b.chunk.js",
+    "main.js.map": "/shippingTool/static/js/main.3531607b.chunk.js.map",
+    "runtime-main.js": "/shippingTool/static/js/runtime-main.1e05465d.js",
+    "runtime-main.js.map": "/shippingTool/static/js/runtime-main.1e05465d.js.map",
     "static/css/2.c1e28d34.chunk.css": "/shippingTool/static/css/2.c1e28d34.chunk.css",
-    "static/js/2.703bf5ce.chunk.js": "/shippingTool/static/js/2.703bf5ce.chunk.js",
-    "static/js/2.703bf5ce.chunk.js.map": "/shippingTool/static/js/2.703bf5ce.chunk.js.map",
-    "static/js/3.7d155870.chunk.js": "/shippingTool/static/js/3.7d155870.chunk.js",
-    "static/js/3.7d155870.chunk.js.map": "/shippingTool/static/js/3.7d155870.chunk.js.map",
+    "static/js/2.863874e0.chunk.js": "/shippingTool/static/js/2.863874e0.chunk.js",
+    "static/js/2.863874e0.chunk.js.map": "/shippingTool/static/js/2.863874e0.chunk.js.map",
+    "static/js/3.454a826e.chunk.js": "/shippingTool/static/js/3.454a826e.chunk.js",
+    "static/js/3.454a826e.chunk.js.map": "/shippingTool/static/js/3.454a826e.chunk.js.map",
     "index.html": "/shippingTool/index.html",
     "static/css/2.c1e28d34.chunk.css.map": "/shippingTool/static/css/2.c1e28d34.chunk.css.map",
     "static/css/main.04115a6c.chunk.css.map": "/shippingTool/static/css/main.04115a6c.chunk.css.map",
-    "static/js/2.703bf5ce.chunk.js.LICENSE.txt": "/shippingTool/static/js/2.703bf5ce.chunk.js.LICENSE.txt",
+    "static/js/2.863874e0.chunk.js.LICENSE.txt": "/shippingTool/static/js/2.863874e0.chunk.js.LICENSE.txt",
     "static/media/Coal_mine.f8b35831.png": "/shippingTool/static/media/Coal_mine.f8b35831.png",
     "static/media/power_plant.0ce6d6e9.png": "/shippingTool/static/media/power_plant.0ce6d6e9.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.6d38f920.js",
+    "static/js/runtime-main.1e05465d.js",
     "static/css/2.c1e28d34.chunk.css",
-    "static/js/2.703bf5ce.chunk.js",
+    "static/js/2.863874e0.chunk.js",
     "static/css/main.04115a6c.chunk.css",
-    "static/js/main.8e7e84ac.chunk.js"
+    "static/js/main.3531607b.chunk.js"
   ]
 }
